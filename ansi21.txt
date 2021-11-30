@@ -1,0 +1,2 @@
+[remoteservers]
+remote@15.207.222.180
